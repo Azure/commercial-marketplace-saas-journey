@@ -34,7 +34,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Modify index.html
-        run: sed -i "$(($(wc -l < index.html) - 2))i <script src="mouse.js"></script>" index.html
+        run: sed -i "$(($(wc -l < index.html) - 0))i <script src=\"mouse.js\"></script>" index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
