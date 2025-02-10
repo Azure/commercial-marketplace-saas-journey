@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.body.style.overflow = 'hidden';
 
     document.addEventListener('mousedown', (e) => {
-        if (e.button === 1) { // Middle mouse button
+        if (e.button === 1 || e.button === 0) { // Middle mouse button is 1 and left is 0
             isMiddleMouseDown = true;
             lastX = e.clientX;
             lastY = e.clientY;
@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     document.addEventListener('mouseup', (e) => {
-        if (e.button === 1) { // Middle mouse button
+        if (e.button === 1 || e.button === 0) { // Middle mouse button 1 and left is 0 
             isMiddleMouseDown = false;
             document.body.style.cursor = 'default'; // Reset cursor
         }
