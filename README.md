@@ -1,14 +1,6 @@
 # Commercial Marketplace SaaS Journey
 
-A project to guide Independent Software Vendors (ISVs) throuh the Azure Marketpalce publishing process.  The map provide all the steps screen-by-screen while allowing zoom in/out with the use of the mouse to provide an improve perspecive of the process.
-
-The interactive map can be seen [here](https://azure.github.io/commercial-marketplace-saas-journey/).
-
-As the maintainer of this project, please make a few updates:
-
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+A comprehensive guide designed to assist Independent Software Vendors (ISVs) in navigating the Azure Marketplace publishing process. This interactive map outlines each step of the process in a detailed, screen-by-screen format. Users can zoom in and out using the mouse for enhanced visibility and a clearer perspective.  
 
 ## Contributing
 
