@@ -2,6 +2,8 @@
 
 A comprehensive guide designed to assist Independent Software Vendors (ISVs) in navigating the Azure Marketplace publishing process. This interactive map outlines each step of the process in a detailed, screen-by-screen format. Users can zoom in and out using the mouse for enhanced visibility and a clearer perspective.  
 
+Explore the interactive map [here](https://azure.github.io/commercial-marketplace-saas-journey/).  
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
